@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java at IES Teis
 - 💞️ Soon I will be looking to collaborate on homemade videogames, TT-RPGames and musical things
 - ⛵ Traditional sailing (that's sailing in old wooden boats) is an interest for me, too. 
-- 🦋 Bluesky: @zabu.bsky.social
+- 🦋 Bluesky: [@zabu](https://bsky.app/profile/zabu.bsky.social)
 
 <!---
 SamuMSeoane/SamuMSeoane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
